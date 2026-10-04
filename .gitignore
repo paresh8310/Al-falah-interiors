@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Tooling / local
+.freebuff/
+archive/
+*.log
+.DS_Store
